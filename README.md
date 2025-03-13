@@ -18,7 +18,6 @@ I'm a **Software Engineer** passionate about building innovative, scalable, and 
 
 ### 📊 GitHub Stats
 
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRitik&layout=compact&theme=radical)
 
 ---
