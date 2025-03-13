@@ -21,7 +21,6 @@ I'm a **Software Engineer** passionate about building innovative, scalable, and 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRitik&layout=compact&theme=radical)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ItsRitik&label=Profile%20views&color=0e75b6&style=flat" alt="parimal-b" /> </p>
 ---
 
 ### 🎓 Education
