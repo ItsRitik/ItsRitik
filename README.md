@@ -2,6 +2,7 @@
 
 I'm a **Software Engineer** passionate about building innovative, scalable, and responsive AI-powered web applications. Currently pursuing my Master's in Computer Science at Pace University, I love creating digital experiences that leverage cutting-edge technologies.
 
+
 ---
 
 ### 🚀 Technologies & Tools
